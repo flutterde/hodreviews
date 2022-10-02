@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1081277663236",
+    "project_id": "hod-reviews",
+    "storage_bucket": "hod-reviews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081277663236:android:d6e089fd496287372c0d51",
+        "android_client_info": {
+          "package_name": "com.hodreviewsproject.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081277663236-m5ospfbe9c30dsfd8qo7j768dhq5s44i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hodreviewsproject.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1081277663236-48vjfpk8r9tle5egho9cphbbedfjm99u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPoUxOxEThYI42W_2D7ZpQ6a-yapVwak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081277663236-48vjfpk8r9tle5egho9cphbbedfjm99u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081277663236-gduem4lmoinka73guv5oq84vkpthrgen.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hodreviewsproject.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
